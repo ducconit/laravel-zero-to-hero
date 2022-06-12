@@ -1,8 +1,8 @@
 # LARAVEL ZERO TO HERO
 
 ### Mục lục
-1. [Typography](./#typo)
-2. [PSR standard](./#psr)
+1. [Typography](#typo)
+2. [PSR standard](#psr)
 
 
 ___
@@ -33,5 +33,5 @@ ___
 - HTTP: Quy ước cách code làm sao để tương tác với các request, response HTTP 1 cách tốt nhất
  + PSR-7, PSR-5, PSR-15, PSR-17, PSR-18
 - Coding styles: Quy ước về phong cách code
- + [PSR-1](./psr/psr-1.md), PSR-12
+ + [PSR-1](./psr/psr-1.md), [PSR-2](./psr/psr-2.md), PSR-12
 
